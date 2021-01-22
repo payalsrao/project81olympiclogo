@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://png.pngtree.com/png-vector/20190130/ourlarge/pngtree-border-texture-hand-drawn-cute-cartoon-border-texturehand-drawn-cartooncartoon-png-image_635054.jpg');
+     background-position:center;
+     
+     text-align:center;
+     background-size: cover;}
+   
+   #myCanvas{
+     background-color: white;
+     border: green;
+     border-style:ridge;
+     border-width: 10px;
+     border-radius: 30%;
+     margin-bottom: 0px;
+     
+   }
+   h1{
+     font-family:cursive;
+     font-size: 40px;
+     text-decoration: underline;
+     color: navy;
+     
+   }
+   p{
+     border: aqua;
+     border-style: solid;
+     border-width: 5px;
+     margin: 8px auto;
+     color:white;
+     background-color: black;
+     width: 70%;
+     font-family: cursive;
+   }
